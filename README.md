@@ -1,7 +1,7 @@
 # Economics Ph.D. Math Camp, Fall 2023
 ## University of Oregon
 
-Welcome to the GitHub page for Math Camp! Below you will find the links for all the resources you will need during this course. Math Camp will consist of 5 modules covered over 10 two-hour periods (9:00am - 11:00am) from September 6th to the 19th. Each module will be covered over two weekdays during this time according to the following schedule:
+Welcome to the GitHub page for Math Camp! Below you will find the links for all the resources you will need during this course. Math Camp will consist of 6 modules covered over 10 two-hour periods (9:00am - 11:00am) from September 6th to the 19th. With the exception of modules 4 and 5, each module will be covered over two weekdays during this time according to the following schedule:
 
 **Day 1, hour 1** - Zoom lecture by Bruce McGough covering the module’s content
 
@@ -39,12 +39,17 @@ Sept. 12 & 13
 
 **Practice Problems:** (Coming the 12th at 11 am)
 
-## [Module 4: Functions on $\mathbb{R}^n$](https://github.com/ojetton/math-camp-2023/blob/main/Module_4.pdf)
+## [Module 4: Functions on [\mathbb{R}^n]](https://github.com/ojetton/math-camp-2023/blob/main/Module_4.pdf)
 Sept. 14 & 15
 
 **Practice Problems:** (Coming the 14th at 11 am)
 
-## [Module 5: Optimization](https://github.com/ojetton/math-camp-2023/blob/main/Module_5.pdf)
+## [Module 5: Functions on [\mathbb{R}^n]](https://github.com/ojetton/math-camp-2023/blob/main/Module_5.pdf)
+Sept. 14 & 15
+
+**Practice Problems:** (Coming the 14th at 11 am)
+
+## [Module 6: Optimization](https://github.com/ojetton/math-camp-2023/blob/main/Module_6.pdf)
 Sept. 18 & 19
 
 **Practice Problems:** (Coming the 18th at 11 am)
