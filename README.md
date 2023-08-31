@@ -39,12 +39,12 @@ Sept. 12 & 13
 
 **Practice Problems:** (Coming the 12th at 11 am)
 
-## [Module 4: Functions on [\mathbb{R}^n]](https://github.com/ojetton/math-camp-2023/blob/main/Module_4.pdf)
+## [Module 4: Univariate Functions](https://github.com/ojetton/math-camp-2023/blob/main/Module_4.pdf)
 Sept. 14 & 15
 
 **Practice Problems:** (Coming the 14th at 11 am)
 
-## [Module 5: Functions on [\mathbb{R}^n]](https://github.com/ojetton/math-camp-2023/blob/main/Module_5.pdf)
+## [Module 5: Multivariate Functions](https://github.com/ojetton/math-camp-2023/blob/main/Module_5.pdf)
 Sept. 14 & 15
 
 **Practice Problems:** (Coming the 14th at 11 am)
