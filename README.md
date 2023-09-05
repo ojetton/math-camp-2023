@@ -25,6 +25,8 @@ Welcome to the GitHub page for Math Camp! Below you will find the links for all 
 Read before September 6th
 
 ## [Module 1: Linear Spaces and Linear Maps](https://github.com/ojetton/math-camp-2023/blob/main/Module_1.pdf)
+
+#### [Slides](https://github.com/ojetton/math-camp-2023/blob/main/Module_1_slides.pdf)
 Sept. 6 & 7
 
 **Practice Problems:** (Coming the 6th at 11 am)
