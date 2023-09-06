@@ -29,7 +29,9 @@ Read before September 6th
 #### [Slides](https://github.com/ojetton/math-camp-2023/blob/main/Module_1_slides.pdf)
 Sept. 6 & 7
 
-**Practice Problems:** (Coming the 6th at 11 am)
+**Practice Problems:** Module 1, Exercises: 2, 3, 4, 7, 11, 12, 14, 15, 16, 17
+
+**[Discussion 1](https://github.com/ojetton/math-camp-2023/blob/main/siscussion_1.pdf)**
 
 ## [Module 2: Coordinates and Matrices](https://github.com/ojetton/math-camp-2023/blob/main/module_2.pdf)
 Sept. 8 & 11
