@@ -33,25 +33,30 @@ Sept. 6 & 7
 
 **[Discussion 1](https://github.com/ojetton/math-camp-2023/blob/main/discussion_1.pdf)**
 
-## [Module 2: Coordinates and Matrices](https://github.com/ojetton/math-camp-2023/blob/main/module_2.pdf)
-Sept. 8 & 11
+**[Discussion 2](https://github.com/ojetton/math-camp-2023/blob/main/discussion_2.pdf)**
 
-**Practice Problems:** (Coming the 8th at 11 am)
+**[Lecture 2 Recording](https://uoregon.zoom.us/rec/share/j-e7TGen8VBFxpzylI0Q93VVQ1u0Z52RZ1ruA2kETswH8rrqk2vuQrI2Om1lhY6n.Rs2OYI2viYlw2ecl)**
+Passcode: Hyg6j@aV
+
+## [Module 2: Coordinates and Matrices](https://github.com/ojetton/math-camp-2023/blob/main/module_2.pdf)
+Sept. 11 & 12
+
+**Practice Problems:** (Coming the 11th at 11 am)
 
 ## [Module 3: Metric Spaces and Continuity](https://github.com/ojetton/math-camp-2023/blob/main/module_3.pdf)
 Sept. 12 & 13
 
-**Practice Problems:** (Coming the 12th at 11 am)
+**Practice Problems:** (Coming the 13th at 11 am)
 
 ## [Module 4: Univariate Functions](https://github.com/ojetton/math-camp-2023/blob/main/Module_4.pdf)
 Sept. 14 & 15
 
-**Practice Problems:** (Coming the 14th at 11 am)
+**Practice Problems:** (Coming the 15th at 11 am)
 
 ## [Module 5: Multivariate Functions](https://github.com/ojetton/math-camp-2023/blob/main/Module_5.pdf)
 Sept. 14 & 15
 
-**Practice Problems:** (Coming the 14th at 11 am)
+**Practice Problems:** (Coming the 15th at 11 am)
 
 ## [Module 6: Optimization](https://github.com/ojetton/math-camp-2023/blob/main/Module_6.pdf)
 Sept. 18 & 19
