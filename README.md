@@ -35,6 +35,8 @@ Sept. 6 & 7
 
 **[Discussion 2](https://github.com/ojetton/math-camp-2023/blob/main/discussion_2.pdf)**
 
+**[Discussion 3](https://github.com/ojetton/math-camp-2023/blob/main/discussion_3.pdf)**
+
 **[Lecture 2 Recording](https://uoregon.zoom.us/rec/share/j-e7TGen8VBFxpzylI0Q93VVQ1u0Z52RZ1ruA2kETswH8rrqk2vuQrI2Om1lhY6n.Rs2OYI2viYlw2ecl)**
 Passcode: Hyg6j@aV
 
