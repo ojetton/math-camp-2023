@@ -37,13 +37,18 @@ Sept. 6 & 7
 
 **[Discussion 3](https://github.com/ojetton/math-camp-2023/blob/main/discussion_3.pdf)**
 
+**[Discussion 4](https://github.com/ojetton/math-camp-2023/blob/main/discussion_4.pdf)**
+
 **[Lecture 2 Recording](https://uoregon.zoom.us/rec/share/j-e7TGen8VBFxpzylI0Q93VVQ1u0Z52RZ1ruA2kETswH8rrqk2vuQrI2Om1lhY6n.Rs2OYI2viYlw2ecl)**
 Passcode: Hyg6j@aV
 
 ## [Module 2: Coordinates and Matrices](https://github.com/ojetton/math-camp-2023/blob/main/module_2.pdf)
 Sept. 11 & 12
 
-**Practice Problems:** (Coming the 11th at 11 am)
+**Practice Problems:** Module 2, Exercises 7, 8, 10, 11, 12, 13, 15, 16, 19, 21, 25, 26
+
+**[Lecture 3 Recording](https://uoregon.zoom.us/rec/share/3L5lbW61qBbY-7Hm5lQDXAhToveXuC2K5QVwF00Qf4HEZ9hDN-9R6HP04Qc5cAYr.8JJWRr8ZzIIAUgR)**
+Passcode: %6jZZ%3n
 
 ## [Module 3: Metric Spaces and Continuity](https://github.com/ojetton/math-camp-2023/blob/main/module_3.pdf)
 Sept. 12 & 13
