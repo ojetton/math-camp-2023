@@ -47,6 +47,8 @@ Sept. 11 & 12
 
 #### [Slides](https://github.com/ojetton/math-camp-2023/blob/main/Module_2_slides.pdf)
 
+**[Discussion 5](https://github.com/ojetton/math-camp-2023/blob/main/discussion_5.pdf)**
+
 **Practice Problems:** Module 2, Exercises 7, 8, 10, 11, 12, 13, 15, 16, 19, 21, 25, 26
 
 **[Lecture 3 Recording](https://uoregon.zoom.us/rec/share/3L5lbW61qBbY-7Hm5lQDXAhToveXuC2K5QVwF00Qf4HEZ9hDN-9R6HP04Qc5cAYr.8JJWRr8ZzIIAUgR_)**
@@ -55,14 +57,12 @@ Passcode: %6jZZ%3n
 ## [Module 3: Metric Spaces and Continuity](https://github.com/ojetton/math-camp-2023/blob/main/module_3.pdf)
 Sept. 12 & 13
 
-**Practice Problems:** (Coming the 13th at 11 am)
-
 ## [Module 4: Univariate Functions](https://github.com/ojetton/math-camp-2023/blob/main/Module_4.pdf)
 Sept. 14 & 15
 
 #### [Slides](https://github.com/ojetton/math-camp-2023/blob/main/Module_4_slides.pdf)
 
-**Practice Problems:** (Coming the 15th at 11 am)
+**Practice Problems:** (Coming soon)
 
 ## [Module 5: Multivariate Functions](https://github.com/ojetton/math-camp-2023/blob/main/Module_5.pdf)
 Sept. 14 & 15
