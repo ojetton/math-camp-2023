@@ -60,6 +60,13 @@ Sept. 12 & 13
 ## [Module 4: Univariate Functions](https://github.com/ojetton/math-camp-2023/blob/main/Module_4.pdf)
 Sept. 14 & 15
 
+**Practice Problems:** Module 4, Exercises 8, 9, 12, 15, 17, 18
+
+**[Lecture 4 Recording](https://uoregon.zoom.us/rec/share/UWe2IN9dkMIYiT9n_-BlEGXj45Ku1RVIoJKfGuzVCAN8VF0AV3xxi6DxbHLs-NG8.jbtaMX3Pqp5shCc7)**
+Passcode: .3bT8f.#
+
+**[Discussion 6](https://github.com/ojetton/math-camp-2023/blob/main/discussion_6.pdf)**
+
 #### [Slides](https://github.com/ojetton/math-camp-2023/blob/main/Module_4_slides.pdf)
 
 **Practice Problems:** (Coming soon)
