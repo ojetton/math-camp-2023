@@ -54,6 +54,10 @@ Sept. 11 & 12
 **[Lecture 3 Recording](https://uoregon.zoom.us/rec/share/3L5lbW61qBbY-7Hm5lQDXAhToveXuC2K5QVwF00Qf4HEZ9hDN-9R6HP04Qc5cAYr.8JJWRr8ZzIIAUgR_)**
 Passcode: %6jZZ%3n
 
+**[Lecture 5 Recordning](https://uoregon.zoom.us/rec/share/5vW_0iwWesXLJMVPmzEkiKNs6PQyoyTFg4NjBo73ZA8zHPnSCJjgv3RXZSpyWVyq.7fBwnHd1C5-U-UrP)**
+Passcode: ^1^hyTX!
+(Includes segments from Modules 3 and 5)
+
 ## [Module 3: Metric Spaces and Continuity](https://github.com/ojetton/math-camp-2023/blob/main/module_3.pdf)
 Sept. 12 & 13
 
