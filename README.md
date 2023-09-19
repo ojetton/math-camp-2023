@@ -82,11 +82,15 @@ Passcode: nfg3$$%q
 ## [Module 5: Multivariate Functions](https://github.com/ojetton/math-camp-2023/blob/main/Module_5.pdf)
 Sept. 14 & 15
 
-
 #### [Slides](https://github.com/ojetton/math-camp-2023/blob/main/Module_5_slides.pdf)
+
+**[Discussion 8](https://github.com/ojetton/math-camp-2023/blob/main/discussion_8.pdf)**
 
 ## [Module 6: Optimization](https://github.com/ojetton/math-camp-2023/blob/main/Module_6.pdf)
 Sept. 18 & 19
+
+**[Lecture 6 Recording](https://uoregon.zoom.us/rec/share/ukWqxyRBtqNZow0fd-WtQEMK14cQTV-V6euwGmGvbBCRLdRVaG4qnY_uN5576Nc.7UgUGR0iFIsZaaMU)**
+Passcode: d3UC$2kQ
 
 #### [Slides](https://github.com/ojetton/math-camp-2023/blob/main/Module_6_slides.pdf)
 
