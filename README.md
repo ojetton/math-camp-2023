@@ -94,5 +94,9 @@ Passcode: d3UC$2kQ
 
 #### [Slides](https://github.com/ojetton/math-camp-2023/blob/main/Module_6_slides.pdf)
 
-**Practice Problems:** (Coming the 18th at 11 am)
+#### [Discussion 9 Recording](https://uoregon.zoom.us/rec/share/IIQYcccXIPBxyNzEpAvDmO_n7D2qTiM3I4NpJrUpY2ytpd9HCZfBmgvCa5B_4QUG.4ZsfCQc2pN_KJwM9)
+Passcode: FKU?&J$5
+
+**[Discussion 9](https://github.com/ojetton/math-camp-2023/blob/main/discussion_9.pdf)**
+
 
